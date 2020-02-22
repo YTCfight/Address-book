@@ -173,4 +173,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="23" width="930" height="797" key="CommitChangelistDialog2" timestamp="1582377589635">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="255" y="23" width="930" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582377589635" />
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1582377682004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1582377682004" />
+    <state x="582" y="116" key="RollbackChangesDialog" timestamp="1582377683874">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="582" y="116" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582377683874" />
+  </component>
 </project>
