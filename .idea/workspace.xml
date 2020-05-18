@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b083f5a4-9f29-4330-a4a2-660f6f3aa96a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/META-INF/Test2.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Airplane.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Award.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Bee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Bullet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Constant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Enemy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/FlyingObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/ShootGame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/ShootGame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/ShootGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/airplane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/bee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/hero0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/pause.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2/shootgame/start.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Airplane.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Award.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Bee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Bullet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Constant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Enemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/FlyingObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/ShootGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/airplane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/bee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/hero0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/pause.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shootgame/start.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,18 +181,30 @@
       <workItem from="1573696519115" duration="21000" />
       <workItem from="1576809883811" duration="31000" />
       <workItem from="1579438029067" duration="12000" />
-      <workItem from="1589811390276" duration="360000" />
+      <workItem from="1589811390276" duration="532000" />
     </task>
+    <task id="LOCAL-00001" summary="杨同春">
+      <created>1589811774783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589811774783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="杨同春" />
+    <option name="LAST_COMMIT_MESSAGE" value="杨同春" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="255" y="23" width="930" height="797" key="CommitChangelistDialog2" timestamp="1582377589635">
+    <state x="255" y="23" width="930" height="796" key="CommitChangelistDialog2" timestamp="1589812127294">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="255" y="23" width="930" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582377589635" />
+    <state x="255" y="23" width="930" height="796" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589812127294" />
     <state x="144" y="79" key="DiffContextDialog" timestamp="1582377682004">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -253,9 +225,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1388" height="398" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589811591968" />
-    <state x="582" y="116" key="RollbackChangesDialog" timestamp="1582377683874">
+    <state x="582" y="116" key="RollbackChangesDialog" timestamp="1589812115462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="582" y="116" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582377683874" />
+    <state x="582" y="116" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589812115462" />
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2" timestamp="1589811786280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="112" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589811786280" />
   </component>
 </project>
